@@ -1,7 +1,7 @@
-[![MIT License Badge][license-badge]][license]    
 Author: Lauren Phegley   
 Email: lphegley5@gmail.com    
-Creation Date: 2023-09-15
+Creation Date: 2023-09-15  
+License: MIT License
 
 ------- 
 This repository is based off of https://keepachangelog.com/.
