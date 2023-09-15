@@ -6,7 +6,7 @@ License: MIT License
 ------- 
 This repository is based off of https://keepachangelog.com/.
 
-Project Description: This was developed as a change log template for projects to use as a manual method of keeping track of changes to groups of files. If your project cannot use a computer assisted tracking tool like git or Apache Subversion. Feel free to download or fork this repository in order to utilize it for your own projects.
+Project Description: This was developed as a change log template for projects to use as a manual method of keeping track of changes to groups of files. This is very important to use if your project cannot use a computer assisted tracking tool like git or Apache Subversion. Feel free to download or fork this repository in order to utilize it for your own projects.
 
 ------- 
 Related Files:   
